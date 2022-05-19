@@ -1,0 +1,12 @@
+#bwsui-form-container {
+	background: #2a2140;
+	color: #fff;
+	margin: 2% 2% 2% 1%;
+	padding: 1%;
+	border-radius: 5px;
+	border: 1px solid #fff;
+	text-align: center;
+}
+#bwsui-form-container h1 {
+	color: #fff;
+}
